@@ -55,3 +55,8 @@
   padding: 10px 15px;
   border-radius: 4px;
 }
+
+.menu-link:hover{
+     font: orange;
+     
+}
